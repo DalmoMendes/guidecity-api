@@ -62,7 +62,7 @@ Alguns requisitos:
 <h3>TEST POSTMAN</h3>
 <img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/TEST_POSTMAN.png" />
 
-<h3>MODELAGEM MARIADB - MSQL</h3>
+<h3>MODELAGEM MARIADB/MYSQL</h3>
 <img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/MODEL_SQL_MARIADB-MYSQL.png" />
 
 <h2>Referência</h2>
