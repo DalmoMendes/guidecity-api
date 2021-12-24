@@ -39,34 +39,34 @@ Alguns requisitos:
 * Heroku > deploy do projeto na nuvem
 
 <h3>PERSON</h3>
-<img src="" />
+<img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/PERSON.png" />
 
 <h3>PHONE</h3>
-<img src="" />
+<img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/PHONE.png" />
 
 <h3>NETWORK</h3>
-<img src="" />
+<img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/NETWORK.png" />
 
 <h3>ANDRESS</h3>
-<img src="" />
+<img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/ANDRESS.png" />
 
 <h3>PERSON INNER JOIN PHONE</h3>
-<img src="" />
+<img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/PERSON_PHONE_INNER_JOIN.png" />
 
 <h3>PERSON INNER JOIN NETWORK</h3>
-<img src="" />
+<img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/PERSON_NETWORK_INNER_JOIN.png" />
 
 <h3>PERSON INNER JOIN ADRESS</h3>
-<img src="" />
+<img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/PERSON_ADRESS_INNER_JOIN.png" />
 
 <h3>TEST POSTMAN</h3>
-<img src="" />
+<img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/TEST_POSTMAN.png" />
 
 <h3>MODELAGEM MARIADB - MSQL</h3>
-<img src="" />
+<img src="https://github.com/DalmoMendes/guidecity-api/blob/master/img/MODEL_SQL_MARIADB-MYSQL.png" />
 
 <h2>Referência</h2>
-<p></p>
+<p>Project base Digital Innovation</p>
 
 # :rocket: ceproirr 
 <p>by Dalmo Mendes - dalmosilvamendens@gmail.com</p>
