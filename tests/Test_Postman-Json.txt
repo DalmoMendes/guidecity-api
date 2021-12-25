@@ -1,0 +1,199 @@
+[
+    {
+        "id": 1,
+        "firstName": "Paulo",
+        "lastName": "Mendes",
+        "email": "paulomendes@gmail.com",
+        "cpf": "60247258255",
+        "birthDate": "1980-05-07",
+        "phones": [
+            {
+                "id": 1,
+                "type": "MOBILE",
+                "number": "95991205566",
+                "status": 1
+            },
+            {
+                "id": 6,
+                "type": "COMMERCIAL",
+                "number": "11991205577",
+                "status": 1
+            },
+            {
+                "id": 7,
+                "type": "HOME",
+                "number": "9536258899",
+                "status": 1
+            }
+        ],
+        "network": [
+            {
+                "id": 1,
+                "name": "facebook",
+                "link": "https://facebook.com/paulomendesrr",
+                "status": 1
+            }
+        ],
+        "adress": [
+            {
+                "id": 1,
+                "zipcode": "69309158",
+                "street": "Almerindo dos Santos",
+                "number": "159",
+                "district": "Buriti",
+                "state": "Roraima",
+                "country": "Brasil",
+                "status": 1
+            }
+        ],
+        "status": 1
+    },
+    {
+        "id": 2,
+        "firstName": "Carlos",
+        "lastName": "Assis",
+        "email": "carlosassis@gmail.com",
+        "cpf": "50847258255",
+        "birthDate": "1981-05-07",
+        "phones": [
+            {
+                "id": 2,
+                "type": "MOBILE",
+                "number": "11991205566",
+                "status": 1
+            }
+        ],
+        "network": [
+            {
+                "id": 2,
+                "name": "facebook",
+                "link": "https://facebook.com/carlosassisbv10",
+                "status": 1
+            }
+        ],
+        "adress": [
+            {
+                "id": 2,
+                "zipcode": "69309369",
+                "street": "C6",
+                "number": "15879",
+                "district": "Asa Branca",
+                "state": "Roraima",
+                "country": "Brasil",
+                "status": 1
+            }
+        ],
+        "status": 1
+    },
+    {
+        "id": 3,
+        "firstName": "Maria",
+        "lastName": "Lima",
+        "email": "marialima@hotmail.com",
+        "cpf": "30947258275",
+        "birthDate": "1985-08-10",
+        "phones": [
+            {
+                "id": 3,
+                "type": "MOBILE",
+                "number": "92981205569",
+                "status": 1
+            }
+        ],
+        "network": [
+            {
+                "id": 3,
+                "name": "facebook",
+                "link": "https://facebook.com/marialimabvrr",
+                "status": 1
+            }
+        ],
+        "adress": [
+            {
+                "id": 3,
+                "zipcode": "69309982",
+                "street": "Peixoto Aguiar",
+                "number": "158",
+                "district": "Pintolândia",
+                "state": "Roraima",
+                "country": "Brasil",
+                "status": 1
+            }
+        ],
+        "status": 1
+    },
+    {
+        "id": 4,
+        "firstName": "Ketlin",
+        "lastName": "Santos",
+        "email": "ketlinsantos@gmail.com",
+        "cpf": "80545258855",
+        "birthDate": "1994-08-06",
+        "phones": [
+            {
+                "id": 4,
+                "type": "MOBILE",
+                "number": "11981506633",
+                "status": 1
+            }
+        ],
+        "network": [
+            {
+                "id": 4,
+                "name": "facebook",
+                "link": "https://facebook.com/ketlinsantosrr2",
+                "status": 1
+            }
+        ],
+        "adress": [
+            {
+                "id": 4,
+                "zipcode": "69309481",
+                "street": "França",
+                "number": "157",
+                "district": "Equatorial",
+                "state": "Roraima",
+                "country": "Brasil",
+                "status": 1
+            }
+        ],
+        "status": 1
+    },
+    {
+        "id": 5,
+        "firstName": "Francisco",
+        "lastName": "Gomes",
+        "email": "franciscogomes@hotmail.com",
+        "cpf": "90252896366",
+        "birthDate": "1996-05-03",
+        "phones": [
+            {
+                "id": 5,
+                "type": "MOBILE",
+                "number": "95991506893",
+                "status": 1
+            }
+        ],
+        "network": [
+            {
+                "id": 5,
+                "name": "instagram",
+                "link": "https://instagram.com/franciscogomesbv21",
+                "status": 0
+            }
+        ],
+        "adress": [
+            {
+                "id": 5,
+                "zipcode": "69309123",
+                "street": "Praça 2",
+                "number": "1687",
+                "district": "Centro",
+                "state": "Roraima",
+                "country": "Brasil",
+                "status": 0
+            }
+        ],
+        "status": 0
+    }
+]

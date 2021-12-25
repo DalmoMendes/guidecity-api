@@ -1,0 +1,3 @@
+curl --location --request GET 'http://localhost:8080/api/ceproirr/guide' \
+--header 'Content-Type: application/json' \
+--data-raw '{"query":"SELECT * FROM PERSON INNER JOIN PHONE ON PERSON.ID = PHONE.ID;","variables":{}}'
