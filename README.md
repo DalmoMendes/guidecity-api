@@ -27,7 +27,7 @@ http://localhost:8080/api/ceproirr/guide
 Acesso ao Banco de Dados H2:
 
 ```
-http://localhost:8080/2-console
+http://localhost:8080/h2-console
 ```
 
 Alguns requisitos:
